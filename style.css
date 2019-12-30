@@ -1,0 +1,82 @@
+@import url(https://fonts.googleapis.com/css?family=Tangerine);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+body {
+  font-family: "Lato", sans-serif;
+  line-height: 1.5;
+  text-align: center;
+  color: #111;
+  margin: 2;
+}
+
+#title {
+  font-family: Tangerine;
+  font-size: 6rem;
+  margin-bottom: 0;
+}
+
+#subtitle {
+  font-family: Lato;
+  font-size: 1rem;
+}
+
+h3 {
+  font-family: Lato;
+  font-size: 1.5rem;
+}
+
+h4 {
+  font-family: Lato;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+@media (max-width: 460px) {
+  h1 {
+    font-size: 5.5rem;
+    line-height: 1.2;
+  }
+}
+
+a {
+  color: #477ca9;
+}
+
+a:visited {
+  color: #74638f;
+}
+
+#main {
+  margin: 20px 20px;
+  padding: 20px;
+  background: #fff;
+}
+
+@media (max-width: 460px) {
+  #main {
+    margin: 0;
+  }
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+  font-size: 0.8rem;
+  font-style: italic;
+  color: #111;
+}
+
+footer {
+  padding: 10px;
+}
+
+hr {
+  border: 1px solid grey;
+  border-radius: 1px;
+}
