@@ -2,7 +2,7 @@
 This is a Free Code Camp (FCC) related project in the web design module.
 
 ## Project Description
-> This simple web page is a tribute page to Glenn Gould, one of my favorite pianists.
+This simple web page is a tribute page to Glenn Gould, one of my favorite pianists.
 
 ## Ideas to Improve
 - Add embedded audio of Glenn Gould's recordings
